@@ -1,5 +1,10 @@
-# Does COVID affect post trends and engagements from mental illness related subreddits?
+# Analyzing the Effects of COVID–19 on Social Media Activity in Mental Health Subreddits using AI: Large Language Models and Time Series Analysis
 
 #### Teammates: Hanna Song, Anh Nguyen
 
-#### Hypothesis: Mental health-related subreddits exhibit a shift in post trends as well as the number of engagements based on post texts, number of comments and upvote ratios between periods pre-covid and post-covid
+### Research Question: Does COVID affect post trends and engagements from mental illness related subreddits?
+
+### Hypothesis: Mental health-related subreddits exhibit a shift in post trends as well as the number of engagements based on post texts, number of comments and upvote ratios between periods pre-covid and post-covid
+
+
+### Our analysis on the research can be found from Medium: 
