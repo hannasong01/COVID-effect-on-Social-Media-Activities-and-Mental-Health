@@ -8,3 +8,4 @@
 
 
 ### Our analysis on the research can be found from Medium: 
+https://medium.com/@hanna.song/analyzing-the-effects-of-covid-19-on-social-media-activity-in-mental-health-subreddits-using-ai-4847051bba8d
